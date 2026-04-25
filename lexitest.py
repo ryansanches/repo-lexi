@@ -81,3 +81,5 @@ texto_enviado.configure(background='#C598CA')
 
 #manter a janela aberta
 janela.mainloop()
+
+#alterei
